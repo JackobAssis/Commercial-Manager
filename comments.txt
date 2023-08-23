@@ -1,0 +1,9 @@
+Comentário sobre os últimos códigos:
+Os últimos códigos incluem todas as funcionalidades discutidas anteriormente, 
+como adição e edição de produtos, remoção de produtos, atualização da tabela de estoque,
+ análise de custos e lucros, e também a adição do gráfico de vendas utilizando a biblioteca "Chart.js". 
+Os comentários adicionados ao código explicam detalhadamente o funcionamento de cada parte,
+ permitindo que você acompanhe o desenvolvimento passo a passo e aprenda com o projeto.
+
+A adição do CSS proporcionou um visual mais agradável e moderno ao gerenciador de comércio,
+ tornando a experiência do usuário mais atraente.
